@@ -17,9 +17,9 @@ Enhancing overall patient care and operational efficiency
 
 # The project demonstrates practical skills in:
 
-Big Data Analytics
-Machine Learning
-Data Visualization
-Healthcare Data Analysis
-Predictive Modeling
+Big Data Analytics,
+Machine Learning,
+Data Visualization,
+Healthcare Data Analysis,
+Predictive Modeling,
 Exploratory Data Analysis (EDA)
